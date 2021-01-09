@@ -1,0 +1,7 @@
+*.code-workspace
+*.xls
+*.xlsx
+.vscode/*
+.git/*
+.DS_Store
+Tracker_tasks.txt
