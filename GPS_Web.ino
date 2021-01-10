@@ -22,7 +22,7 @@
 // tracking frequency
 unsigned long oldMillis = 0;
 unsigned long currMillis;
-const unsigned long trackingFreq = 3 * 1000UL;
+const unsigned long trackingFreq = 4 * 1000UL;
 bool wayPoint = false;
 
 // features
