@@ -7,4 +7,4 @@ Key words: GPS tracker; informal learning; citizen science; low cost; data priva
 
 More information on https://innodesign.io/tag/mapping/
 
-
+Development has been supported by the SySTEM 2020 project, which has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under Grant Agreement no. 788317
